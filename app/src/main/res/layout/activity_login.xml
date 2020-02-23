@@ -66,6 +66,7 @@
 
                      ></EditText>
 
+
                 <EditText
                     android:id="@+id/password"
                     android:layout_width="match_parent"
@@ -80,7 +81,9 @@
                     android:textColorHint="#a3a1a1"
 
                     ></EditText>
-                <Button
+
+
+        <Button
                     android:id="@+id/login"
                     android:layout_width="match_parent"
                     android:layout_marginTop="20dp"

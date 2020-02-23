@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439017664784",
+    "firebase_url": "https://calorie-maintainer.firebaseio.com",
+    "project_id": "calorie-maintainer",
+    "storage_bucket": "calorie-maintainer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439017664784:android:a83dfb0574ebb62ced3595",
+        "android_client_info": {
+          "package_name": "com.example.caloriemaintainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439017664784-3t06pof58b3e3ctru84idip752q6d79q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caloriemaintainer",
+            "certificate_hash": "e111c54d01bd4f858b983248f3dc7c4dc15ef49f"
+          }
+        },
+        {
+          "client_id": "439017664784-ti3akmvj3k4nb94bud0i27t6je81qlm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ro-oeGek0xKCAwMPj1pYbQ4mJuUSCVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439017664784-ti3akmvj3k4nb94bud0i27t6je81qlm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
